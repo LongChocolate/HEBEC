@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "843378072516",
+        "project_id": "hebec-school-87aaf",
+        "storage_bucket": "hebec-school-87aaf.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:843378072516:android:bf3e0545b501ce66f32291",
+                "android_client_info": {
+                    "package_name": "com.bmd.demoabh.tuan"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "843378072516-kgl95k60gd3o64e3g6koueso5o0hl48p.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC0zXx-hqiv8SwcOxIyhB9y9uSjyZbyRuU"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "843378072516-kgl95k60gd3o64e3g6koueso5o0hl48p.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1",
+    "web": {
+        "client_id": "843378072516-ja9635e0s9uqlsrocoqud6l4tliuqguf.apps.googleusercontent.com",
+        "project_id": "hebec-school-87aaf",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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"
+    }
+}

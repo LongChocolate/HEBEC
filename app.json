@@ -1,0 +1,12 @@
+{
+    "name": "hebecschool",
+    "displayName": "hebecschool",
+    "updates": {
+        "checkAutomatically": "ON_ERROR_RECOVERY"
+    },
+    "expo": {
+        "name": "MyApp",
+        "slug": "my-app",
+        "sdkVersion": "45.0.0"
+    }
+}
